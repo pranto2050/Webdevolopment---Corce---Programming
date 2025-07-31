@@ -1,0 +1,16 @@
+Larning for 
+
+
+Heading tag -> h1,h2,h3,h4,h5,h6
+Paragraph tag -> p
+Link tag -> <a href="google.com"> google </a>
+
+
+
+
+
+
+
+
+class = "Class name" -> .class name
+ID = "Id name" -> #ID name
