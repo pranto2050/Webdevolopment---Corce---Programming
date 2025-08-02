@@ -1,0 +1,45 @@
+*{
+
+}
+
+
+
+.home_page{
+	color: red;
+}
+
+.about_page{
+	color: blue;
+}
+
+.contruct_page{
+	color: green;
+}
+
+
+.nav_bar{
+	display: flex;
+	gap: 20px;
+}
+ul li{
+	text-decoration: none;
+	list-style: none;
+}
+.nav_bar a{
+	text-decoration: none;
+	background: yellow;
+
+}
+
+
+ul li > ul {
+	display: flex;
+	position: absolute;
+
+    display: none; 
+    background-color: yellow;
+}
+
+ul li:hover ul {
+    display: block;
+}
