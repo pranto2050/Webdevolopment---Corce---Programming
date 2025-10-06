@@ -5,19 +5,19 @@
 
 // Rejular function
 
-function name (a,b){
+// function name (a,b){
+//
+//     return a+b;
+// }
+// console.log(name(10,20)); // Output
 
-    return a+b;
-}
-console.log(name(10,20)); // Output
 
 
-
-// Arrow Function
-let nae = function (a,b){
-    return a+b
-};
-console.log(nae(`santo`,`Pranto`));
+// Arrow Function -> Full Virtion
+// let nae = function (a,b){
+//     return a+b
+// };
+// console.log(nae(`santo`,`Pranto`));
 
 
 
@@ -47,6 +47,8 @@ The function body. Here, it returns the sum of a and b.
 let avg = (a,b) =>{
     return a+b;
 }
+
+console.log(avg(4,6));
 
 
 
