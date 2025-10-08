@@ -1,0 +1,163 @@
+
+
+
+body{
+    background-color: rgba(103, 231, 73, 0.27);
+}
+.nav_bar{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid darkgreen;
+    align-items: center;
+}
+
+.unoder_list{
+    display: flex;
+    gap: 50px;
+}
+
+.unoder_list li{
+    list-style: none;
+}
+.unoder_list li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+
+
+.unoder_list li:hover{
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+}
+
+
+
+/*.login_from:hover {*/
+/*    transform: scale(1.05);*/
+/*    transition: transform 0.3s ease;*/
+/*}*/
+
+
+
+
+
+.main_Section{
+    text-align: center;
+}
+.login_from{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    text-align: center;
+    transition: color 0.1s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
