@@ -16,8 +16,6 @@ let student = {
     }
 };
 
-
-
 let get_data = document.getElementById("email_section")
 console.log(get_data.innerText);
 
