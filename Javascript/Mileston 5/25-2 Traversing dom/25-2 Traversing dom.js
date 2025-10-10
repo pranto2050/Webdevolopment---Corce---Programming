@@ -3,9 +3,6 @@
 
 
 console.log("Pranto");
-
-
-
 let student = {
     name: `John`,
     id: 2112,
